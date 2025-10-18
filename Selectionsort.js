@@ -1,0 +1,3 @@
+// similar to bubble sort but instead of placing into sorted position it places smaller values into sorted position.
+// store first element as the smallest value you' have seen so far, compare this item to next item in the array  until you find a smaller number. if smaller no found designate that smaller no to be the new minimum continue until the end of an array.
+//if minimim is not a value(index) you intially began to swap the 2 values. repeat this with the next element until the array is sorted.
